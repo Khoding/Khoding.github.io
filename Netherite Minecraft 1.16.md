@@ -47,4 +47,5 @@
 > Written with [StackEdit](https://stackedit.io/).
 
 [^1]: Based on [Minecraft Wiki](https://minecraft.gamepedia.com/Java_Edition_1.16)'s page about 1.16 Update
+
 [^2]: Traduit au mieux, mais probablement faux (spécialement les noms d'items)
