@@ -1,4 +1,31 @@
-<h1 id="batman">Batman</h1>
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Batman</title>
+  <link rel="stylesheet" href="https://stackedit.io/style.css" />
+</head>
+
+<body class="stackedit">
+  <div class="stackedit__left">
+    <div class="stackedit__toc">
+      
+<ul>
+<li><a href="#batman">Batman</a>
+<ul>
+<li><a href="#description">Description</a></li>
+<li><a href="#common-characters">Common characters</a></li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  <div class="stackedit__right">
+    <div class="stackedit__html">
+      <h1 id="batman">Batman</h1>
 <p>Storyline choices <sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></p>
 <h2 id="description">Description</h2>
 <p>Batman is a DC Comics character created by Bob Kane and Bill Finger.</p>
@@ -112,3 +139,8 @@ When a Robin died, Batman always tried to find a new one, in some story lines, h
 </ol>
 </section>
 
+    </div>
+  </div>
+</body>
+
+</html>
