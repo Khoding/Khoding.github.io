@@ -1,17 +1,3 @@
----
-extensions:
-  emoji:
-    shortcuts: true
-  preset: ''
-title: Batman
-author: Khodok
-tags: 'Batman, DC'
-categories: Batman
-featuredImage: 'https://upload.wikimedia.org/wikipedia/en/1/19/Batman_%28circa_2016%29.png'
-date: '2020-02-07'
-
----
-
 <h1 id="batman">Batman</h1>
 <p>Storyline choices <sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></p>
 <h2 id="description">Description</h2>
