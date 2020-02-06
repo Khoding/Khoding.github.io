@@ -1,11 +1,3 @@
----
-extensions:
-  emoji:
-   shortcuts: true
-   
-
----
-
 <h1 id="batman">Batman</h1>
 <p>Storyline choices <sup class="footnote-ref"><a href="#fn1" id="fnref1">1</a></sup></p>
 <h2 id="description">Description</h2>
