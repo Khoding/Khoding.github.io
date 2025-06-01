@@ -92,6 +92,11 @@ textarea:not([rows]) {
 .inline figure {
   display: inline-block;
 
+  img {
+    margin-inline: auto;
+    padding-inline: var(--p);
+  }
+
   figcaption {
     display: flex;
     justify-content: space-between;
