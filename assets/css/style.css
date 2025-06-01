@@ -89,6 +89,11 @@ textarea:not([rows]) {
   scroll-margin-block: 5ex;
 }
 
-.inline img {
-  display: inline;
+.inline figure {
+  display: inline-block;
+
+  figcaption {
+    display: flex;
+    justify-content: space-between;
+  }
 }
